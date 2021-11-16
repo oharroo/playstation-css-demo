@@ -53,7 +53,6 @@ nav ul li a:hover {
 }
 
 .row {
-  border: solid black;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -61,7 +60,6 @@ nav ul li a:hover {
 }
 
 .col-1 {
-  border: solid black;
   flex-basis: 40%;
   position: relative;
   margin-left: 50px;
@@ -127,7 +125,6 @@ button:hover {
 }
 
 .col-2 {
-  border: solid black;
   position: relative;
   display: flex;
   align-items: center;
